@@ -1,6 +1,6 @@
 # SJModule
 
-###### 基于DifferenceKit的页面组件component框架，主要是把CollectionViewLayout重写.
+###### 基于DifferenceKit的页面组件module框架，主要是把CollectionViewLayout重写.
 ###### 采用和IGList相同的方式，加入adapter，整合成module.
 ###### 在layout的prepare进行attris 的创建。attris包含cell，Supplementary，DecorationView。
 ###### 目前只需要cell 和 DecorationView，DecorationView 用来修饰section，一个module即为一个section，若干cell和一个DecorationView。
