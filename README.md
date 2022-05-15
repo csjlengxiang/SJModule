@@ -7,3 +7,5 @@
 ###### 由于加入了DifferenceKit，则需要管理 diff module。
 ###### 另外由于各个组件加载时机不定，会出现ABC，先出现AC，再出现B的闪动情况。
 ###### adapter加入module下载队列，并管理module出现的顺序
+
+###### demo里都是关于collectionlayout和diffKit的使用和交互
